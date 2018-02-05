@@ -4,8 +4,7 @@ int main()
 int i,n;
 printf("Enter the positive integer:");
 scanf("%d",n);
-
-for(i=1; )
+for(i=1)
     {
         sum += i;  
     }
